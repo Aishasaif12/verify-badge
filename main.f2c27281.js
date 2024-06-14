@@ -12158,7 +12158,7 @@
                     })
                 }), (0,
                 Ne.jsx)(de, {
-                    path: "/page-validation",
+                    path: "/index.html",
                     element: (0,
                     Ne.jsx)(Pe, {
                         name: "Jawad",
